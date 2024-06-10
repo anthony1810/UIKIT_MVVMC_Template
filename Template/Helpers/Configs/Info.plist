@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_ENDPOINT</key>
+	<string>${API_ENDPOINT}</string>
+	<key>API_TOKEN</key>
+	<string>${API_TOKEN}</string>
+	<key>DOMAIN</key>
+	<string>${DOMAIN}</string>
+	<key>IMAGE_DOMAIN</key>
+	<string>${IMAGE_DOMAIN}</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>VIDEO_DOMAIN</key>
+	<string>${VIDEO_DOMAIN}</string>
+</dict>
+</plist>

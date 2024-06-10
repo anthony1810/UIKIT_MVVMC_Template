@@ -6,6 +6,7 @@
 //
 
 import Moya
+import Foundation
 
 public enum MovieDetailAPI {
     case detail(id: Int)

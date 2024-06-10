@@ -7,7 +7,7 @@
 
 import Moya
 import Resolver
-
+import Foundation
 
 // MARK: - NetworkingType
 protocol NetworkingType {
