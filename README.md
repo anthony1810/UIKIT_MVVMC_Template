@@ -3,7 +3,7 @@
 A template to create UIKit applications using the MVVM-C (Model-View-ViewModel-Coordinator) architecture pattern.
 Refer to this project for a full implementation: [Anthony-Movie-App](https://github.com/anthony1810/Anthony-Movie-App)
 
-![Project Structure](diagrams/cleanarchitecture.png)
+![Project Structure](diagrams/cleanarchitecture2.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
